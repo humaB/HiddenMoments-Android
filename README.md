@@ -1,2 +1,1 @@
-# HiddenMoments-Android
-my game
+Hidden Moments Android
